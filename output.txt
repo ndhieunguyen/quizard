@@ -1,0 +1,251 @@
+1. What is Digital Image Processing?
+a) It's an application that alters digital videos
+b) It's a software that allows altering digital pictures
+c) It's a system that manipulates digital medias
+d) It's a machine that allows altering digital images
+~b#2. Which of the following process helps in Image enhancement?
+a) Digital Image Processing
+b) Analog Image Processing
+c) Both a and b
+d) None of the above
+~c#3. Among the following, functions that can be performed by digital image processing is?
+a) Fast image storage and retrieval
+b) Controlled viewing
+c) Image reformatting
+d) All of the above
+~d#4. Which of the following is an example of Digital Image Processing?
+a) Computer Graphics
+b) Pixels
+c) Camera Mechanism
+d) All of the mentioned
+~d#5. What are the categories of digital image processing?
+a) Image Enhancement
+b) Image Classification and Analysis
+c) Image Transformation
+d) All of the mentioned
+~d#6. How does picture formation in the eye vary from image formation in a camera?
+a) Fixed focal length
+b) Varying distance between lens and imaging plane
+c) No difference
+d) Variable focal length
+~d#7. What are the names of the various colour image processing categories?
+a) Pseudo-color and Multi-color processing
+b) Half-color and pseudo-color processing
+c) Full-color and pseudo-color processing
+d) Half-color and full-color processing
+~c#8. Which characteristics are taken together in chromaticity?
+a) Hue and Saturation
+b) Hue and Brightness
+c) Saturation, Hue, and Brightness
+d) Saturation and Brightness
+~a#9. Which of the following statement describe the term pixel depth?
+a) It is the number of units used to represent each pixel in RGB space
+b) It is the number of mm used to represent each pixel in RGB space
+c) It is the number of bytes used to represent each pixel in RGB space
+d) It is the number of bits used to represent each pixel in RGB space
+~d#10. The aliasing effect on an image can be reduced using which of the following methods?
+a) By reducing the high-frequency components of image by clarifying the image
+b) By increasing the high-frequency components of image by clarifying the image
+c) By increasing the high-frequency components of image by blurring the image
+d) By reducing the high-frequency components of image by blurring the image
+~d#11. Which of the following is the first and foremost step in Image Processing?
+a) Image acquisition
+b) Segmentation
+c) Image enhancement
+d) Image restoration
+~a#12. Which of the following image processing approaches is the fastest, most accurate, and flexible?
+a) Photographic
+b) Electronic
+c) Digital
+d) Optical
+~c#13. Which of the following is the next step in image processing after compression?
+a) Representation and description
+b) Morphological processing
+c) Segmentation
+d) Wavelets
+~b#14. ___________ determines the quality of a digital image.
+a) The discrete gray levels
+b) The number of samples
+c) discrete gray levels & number of samples
+d) None of the mentioned
+~c#15. Image processing involves how many steps?
+a) 7
+b) 8
+c) 13
+d) 10
+~d#16. Which of the following is the abbreviation of JPEG?
+a) Joint Photographic Experts Group
+b) Joint Photographs Expansion Group
+c) Joint Photographic Expanded Group
+d) Joint Photographic Expansion Group
+~a#17. Which of the following is the role played by segmentation in image processing?
+a) Deals with property in which images are subdivided successively into smaller regions
+b) Deals with partitioning an image into its constituent parts or objects
+c) Deals with extracting attributes that result in some quantitative information of interest
+d) Deals with techniques for reducing the storage required saving an image, or the bandwidth required transmitting it
+~b#18. The digitization process, in which the digital image comprises M rows and N columns, necessitates choices for M, N, and the number of grey levels per pixel, L. M and N must have which of the following values?
+a) M have to be positive and N have to be negative integer
+b) M have to be negative and N have to be positive integer
+c) M and N have to be negative integer
+d) M and N have to be positive integer
+~d#19. Which of the following tool is used in tasks such as zooming, shrinking, rotating, etc.?
+a) Filters
+b) Sampling
+c) Interpolation
+d) None of the Mentioned
+~c#20. The effect caused by the use of an insufficient number of intensity levels in smooth areas of a digital image _____________
+a) False Contouring
+b) Interpolation
+c) Gaussian smooth
+d) Contouring
+~a#21. What is the procedure done on a digital image to alter the values of its individual pixels known as?
+a) Geometric Spacial Transformation
+b) Single Pixel Operation
+c) Image Registration
+d) Neighbourhood Operations
+~b#22. Points whose locations are known exactly in the input and reference images are used in Geometric Spacial Transformation.
+a) Known points
+b) Key-points
+c) Réseau points
+d) Tie points
+~d#23. ___________ is a commercial use of Image Subtraction.
+a) MRI scan
+b) CT scan
+c) Mask mode radiography
+d) None of the Mentioned
+~c#24. Approaches to image processing that work directly on the pixels of incoming image work in ____________
+a) Spatial domain
+b) Inverse transformation
+c) Transform domain
+d) None of the Mentioned
+~a#25. Which of the following in an image can be removed by using a smoothing filter?
+a) Sharp transitions of brightness levels
+b) Sharp transitions of gray levels
+c) Smooth transitions of gray levels
+d) Smooth transitions of brightness levels
+~b#26. Region of Interest (ROI) operations is generally known as _______
+a) Masking
+b) Dilation
+c) Shading correction
+d) None of the Mentioned
+~a#27. Which of the following comes under the application of image blurring?
+a) Image segmentation
+b) Object motion
+c) Object detection
+d) Gross representation
+~d#28. Which of the following filter's responses is based on the pixels ranking?
+a) Sharpening filters
+b) Nonlinear smoothing filters
+c) Geometric mean filter
+d) Linear smoothing filters
+~b#29. Which of the following illustrates three main types of image enhancing functions?
+a) Linear, logarithmic and power law
+b) Linear, logarithmic and inverse law
+c) Linear, exponential and inverse law
+d) Power law, logarithmic and inverse law
+~d#30. Which of the following is the primary objective of sharpening of an image?
+a) Decrease the brightness of the image
+b) Increase the brightness of the image
+c) Highlight fine details in the image
+d) Blurring the image
+~c#31. Which of the following operation is done on the pixels in sharpening the image, in the spatial domain?
+a) Differentiation
+b) Median
+c) Integration
+d) Average
+~a#32. ________ is the principle objective of Sharpening, to highlight transitions.
+a) Brightness
+b) Pixel density
+c) Composure
+d) Intensity
+~d#33. _________ enhance Image Differentiation?
+a) Pixel Density
+b) Contours
+c) Edges
+d) None of the mentioned
+~c#34. Which of the following fact is correct for an image?
+a) An image is the multiplication of illumination and reflectance component
+b) An image is the subtraction of reflectance component from illumination component
+c) An image is the subtraction of illumination component from reflectance component
+d) An image is the addition of illumination and reflectance component
+~a#35. Which of the following occurs in Unsharp Masking?
+a) Subtracting blurred image from original
+b) Blurring the original image
+c) Adding a mask to the original image
+d) All of the mentioned
+~d#36. Which of the following makes an image difficult to enhance?
+a) Dynamic range of intensity levels
+b) High noise
+c) Narrow range of intensity levels
+d) All of the mentioned
+~d#37. _________ is the process of moving a filter mask over the image and computing the sum of products at each location.
+a) Nonlinear spatial filtering
+b) Convolution
+c) Correlation
+d) Linear spatial filtering
+~c#38. Which side of the greyscale is the components of the histogram concentrated in a dark image?
+a) Medium
+b) Low
+c) Evenly distributed
+d) High
+~b#39. Which of the following is the application of Histogram Equalisation?
+a) Blurring
+b) Contrast adjustment
+c) Image enhancement
+d) None of the Mentioned
+~c#40. Which of the following is the expansion of PDF, in uniform PDF?
+a) Probability Density Function
+b) Previously Derived Function
+c) Post Derivation Function
+d) Portable Document Format
+~a#41. ____________ filter is known as averaging filters.
+a) Bandpass
+b) Low pass
+c) High pass
+d) None of the Mentioned
+~b#42. What is/are the resultant image of a smoothing filter?
+a) Image with reduced sharp transitions in gray levels
+b) Image with high sharp transitions in gray levels
+c) None of the mentioned
+d) All of the mentioned
+~a#43. The response for linear spatial filtering is given by the relationship __________
+a) Difference of filter coefficient's product and corresponding image pixel under filter mask
+b) Product of filter coefficient's product and corresponding image pixel under filter mask
+c) Sum of filter coefficient's product and corresponding image pixel under filter mask
+d) None of the mentioned
+~c#44. ___________ is/are the feature(s) of a highpass filtered image.
+a) An overall sharper image
+b) Have less gray-level variation in smooth areas
+c) Emphasized transitional gray-level details
+d) All of the mentioned
+~d#45. The filter order of a Butterworth lowpass filter determines whether it is a very sharp or extremely smooth filter function, or an intermediate filter function. Which of the following filters does the filter approach if the parameter value is very high?
+a) Gaussian lowpass filter
+b) Ideal lowpass filter
+c) Gaussian & Ideal lowpass filters
+d) None of the mentioned
+~b#46. Which of the following image component is characterized by a slow spatial variation?
+a) Reflectance and Illumination components
+b) Reflectance component
+c) Illumination component
+d) None of the mentioned
+~c#47. Gamma Correction is defined as __________
+a) Light brightness variation
+b) A Power-law response phenomenon
+c) Inverted Intensity curve
+d) None of the Mentioned
+~b#48. ____________________ is known as the highlighting the contribution made to total image by specific bits instead of highlighting intensity-level changes.
+a) Bit-plane slicing
+b) Intensity Highlighting
+c) Byte-Slicing
+d) None of the Mentioned
+~a#49. Which gray-level transformation increases the dynamic range of gray-level in the image?
+a) Negative transformations
+b) Contrast stretching
+c) Power-law transformations
+d) None of the mentioned
+~b#50. What is/are the gray-level slicing approach(es)?
+a) To brighten the pixels gray-value of interest and preserve the background
+b) To give all gray level of a specific range high value and a low value to all other gray levels
+c) All of the mentioned
+d) None of the mentioned
+~c#
