@@ -1,9 +1,17 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import streamlit as st
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
+
+
+@st.cache_resource
+def get_driver():
+    return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+
 
 url = st.text_input("Enter first url")
 enter_button = st.button("OK")
@@ -13,7 +21,7 @@ if enter_button:
     content = ""
 
     while True:
-        driver = webdriver.Chrome(options=chrome_options)
+        driver = get_driver()
         driver.get(url)
 
         try:
